@@ -1,6 +1,9 @@
 <h1 align="center">Hello, I'm Wangjoui</h1>
 <div align="center">
 <a href="https://discord.com/users/1053969705129488426">
+<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/1053969705129488426)](https://discord.com/users/1053969705129488426)">
+</a>
+</div>
 
 <h3 align="center">About Me</h3>
 
