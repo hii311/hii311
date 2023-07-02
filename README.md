@@ -22,7 +22,7 @@
 <p>
 
   
-- <img src="https://cdn.discordapp.com/emojis/1124886129498394684.png" alt="." width="16" height="16"/> JavaScript
+- <img src="https://cdn.discordapp.com/emojis/1124886129498394684.png" alt="." width="16" height="16"/> JavaScript [<img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/)] (a bit pretty good)
   
 </p>
 </details>
