@@ -17,8 +17,10 @@
   - 🎮 | I Really like to code and play simulator game like American Truck Simulator, Euro Truck Simulator 2, and i like cat :>
 </p>
 </details>
+
 <details><summary>Programming Language I coding?</summary>
 <p>
 - <img src="https://cdn.discordapp.com/emojis/1124886129498394684.png" alt="." width="16" height="16"/> JavaScript
   
 </p>
+</details>
