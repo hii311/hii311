@@ -18,3 +18,7 @@
 </p>
 </details>
 <details><summary>Programming Language I coding?</summary>
+<p>
+- <img src="https://cdn.discordapp.com/emojis/1124886129498394684.png?size=4096"
+  
+</p>
