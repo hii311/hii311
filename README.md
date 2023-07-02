@@ -19,6 +19,6 @@
 </details>
 <details><summary>Programming Language I coding?</summary>
 <p>
-- <img src="https://cdn.discordapp.com/emojis/1124886129498394684.png?size=4096"
+- <img src="https://cdn.discordapp.com/emojis/1124886129498394684.png" alt="." width="16" height="16"/> JavaScript
   
 </p>
