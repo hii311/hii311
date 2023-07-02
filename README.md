@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Wangjoui</h1>
 <div align="center">
-<a href="https://discord.com/users/1053969705129488426"
+<a href="https://discord.com/users/1053969705129488426">
 
 <h3 align="center">About Me</h3>
 
