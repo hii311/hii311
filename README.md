@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://discord.com/users/1053969705129488426">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1053969705129488426?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Look%20at%20this!,%20a%20cute%20cat!)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1053969705129488426?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Look%20at%20this!,%20a%20cute%20cat!)](https://discord.com/users/1053969705129488426)
 
 
 </a>
