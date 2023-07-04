@@ -4,7 +4,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1053969705129488426?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Look%20at%20this,%20a%20cute%20cat!)](https://discord.com/users/1053969705129488426)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Wangjoui%2C+I'm+14+years+old;I'm+Currently+living+in+An+Giang%2C+Vietnam;I'm+really+like+to+code+and+play+simulator+game+%3A);And...+Nothing+%3A))](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=405&size=30&duration=6765&pause=995&color=F4F710&vCenter=true&width=1450&height=95&lines=Hi%2C+I'm+Wangjoui%2C+known+as+im.wangjoui+on+Discord%2C+known+as+Vuong+Trieu+Vy;I'm+currently+living+in+An+Giang%2C+Vietnam;I'm+really+like+to+code+and+play+simulator+game%2C+i+like+cat+too+!;And+i'm+is+newbie+progammer.">
 
 </a>
 </div>
