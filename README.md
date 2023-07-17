@@ -15,8 +15,7 @@
         <img src="https://img.shields.io/discord/1091637641105129474?logo=discord"
             alt="chat on Discord"></a>
             <h3 align="center">About Me</h3>
-            <h3 align="left">Idk</h3>
-            <img src="https://discord.com/widget?id=1091637641105129474&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+ 
 
 <details><summary>Who Am I?</summary>
   <p>
