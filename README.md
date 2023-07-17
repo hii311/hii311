@@ -7,9 +7,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=405&size=30&duration=6765&pause=995&color=F4F710&vCenter=true&width=1450&height=95&lines=Hi%2C+I'm+Wangjoui%2C+known+as+im.wangjoui+on+Discord%2C+known+as+Vuong+Trieu+Vy;I'm+currently+living+in+An+Giang%2C+Vietnam;I'm+really+like+to+code+and+play+simulator+game%2C+i+like+cat+too+!;And+i'm+is+newbie+progammer.">
 
-
-
-
 </a>
 </div>
 
@@ -18,6 +15,8 @@
         <img src="https://img.shields.io/discord/1091637641105129474?logo=discord"
             alt="chat on Discord"></a>
             <h3 align="center">About Me</h3>
+            <h3 align="left">Idk</h3>
+            <iframe src="https://discord.com/widget?id=1091637641105129474&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <details><summary>Who Am I?</summary>
   <p>
