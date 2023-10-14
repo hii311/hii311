@@ -12,8 +12,9 @@
 
  <h3 align="left">My Game Server</h3>
  <a href="https://discord.gg/bxMssvYQqA">
-        <img src="https://img.shields.io/discord/1091637641105129474?logo=discord"
+        <img src="https://img.shields.io/discord/1134661633789132814?logo=discord"
             alt="chat on Discord"></a>
+            
             <h3 align="center">About Me</h3>
  
 
