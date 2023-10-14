@@ -3,7 +3,7 @@
 <a href="https://discord.com/users/1053969705129488426">
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1053969705129488426?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=my%20views%20my%20rules%20my%20styles)](https://discord.com/users/1053969705129488426)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1053969705129488426?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=my%20views,%20my%20rules,%20my%20styles.)](https://discord.com/users/1053969705129488426)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+cute+cat!+%F0%9F%98%8A+;Known+as+%40nekosanreal+on+Discord" alt="Typing SVG" /></a>
 
