@@ -14,8 +14,7 @@
  <a href="https://discord.gg/bxMssvYQqA">
         <img src="https://img.shields.io/discord/1134661633789132814?logo=discord"
             alt="chat on Discord"></a>
-            
-            <h3 align="center">About Me</h3>
+               <h3 align="center">About Me</h3>
  
 
 <details><summary>Who Am I?</summary>
